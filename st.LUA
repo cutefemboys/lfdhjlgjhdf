@@ -1,4 +1,4 @@
-// Roblox's EN Client Localization Table
+-- Roblox's EN Client Localization Table
 local a = "Teleport failed due to an unexpected error. Please try teleporting again."
 local b = "You\'ve spent a lot on Roblox this month. Do you want to proceed? This purchase involves the exchange of real money. You must be the parent or legal guardian of the account owner to authorize this purchase."
 local c = "Add people you know as trusted friends to unlock chat without filters, Party voice and more. Manage this friend anytime from their profile."
